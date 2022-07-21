@@ -1,0 +1,6 @@
+.place__info {
+    border: 3p solid green;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}

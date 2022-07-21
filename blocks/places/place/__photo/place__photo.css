@@ -1,0 +1,4 @@
+.place__photo {
+    display: flex;
+    gap: 40px;
+}

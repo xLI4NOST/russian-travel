@@ -1,0 +1,40 @@
+@media screen and (max-width:1024px) {
+.cover{
+position: relative;
+width: 100%;
+}
+}
+@media screen and (max-width: 768px) {
+    .cover{
+        width: 100%;
+        background-image: url(../../../images/768/__overlay.png);
+        background-repeat: no-repeat;
+        max-height: 480px;
+    }
+    .cover__title{
+        margin-left: 13.6%;
+        width: 73%;
+    }
+}
+@media screen and (max-width: 320px) {
+    .cover{
+        width: 100%;
+        height: 200px;
+        background-image: url(../../../images/320/__background.png);
+    }
+    .cover__title{
+        font-size: 32px;
+line-height: 35px;
+width: 90%;
+height: 70px;
+margin: 10% 5% 0 5%;
+    }
+    .cover__subtitle{
+        font-size: 14px;
+line-height: 16px;
+height: 48px;
+width: 90%;
+margin: 5% 5% 0 5%;
+    }
+    
+}

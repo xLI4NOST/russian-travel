@@ -1,0 +1,11 @@
+.intro__quote-list {
+    width: 100%;
+    height: 90px;
+    margin-top: 33px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+}

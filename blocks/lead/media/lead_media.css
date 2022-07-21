@@ -1,0 +1,43 @@
+@media screen and (max-width: 1024px) {
+    .lead{
+        width: 92%;
+    }
+    
+}
+@media screen and (max-width: 768px){
+    .lead{width:100%;
+        position: relative;
+    }
+    .lead__title{
+        font-size: 96px;
+line-height: 100px;
+width: 93.75%;
+    }
+.lead__subtitle{
+    font-size: 30px;
+    line-height: 36px;
+}
+.lead__image{
+    background-image: url(./images/leed/768px/__image.png);
+background-repeat: no-repeat;
+}
+}
+@media screen and (max-width: 690px) {
+    .lead{
+        width: 100%;
+    }
+    .lead__title{
+        font-size: 40px;
+        line-height: 44px;
+        height: 88px;
+    }
+    .lead__subtitle{
+        font-size: 16px;
+line-height: 20px;
+width: 90%;
+    }
+    .lead__image{
+        background-image: url(./images/320/kalegin-micha.png);
+        max-height: 200px;
+    }
+}
