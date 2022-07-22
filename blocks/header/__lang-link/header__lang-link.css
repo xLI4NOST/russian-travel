@@ -1,4 +1,4 @@
-.lang-link {
+.header__lang-link {
     font-family: 'inter';
     font-style: normal;
     font-weight: 400px;
@@ -11,7 +11,7 @@
     text-decoration: none;
 }
 
-.lang-link:nth-child(3) {
+.header__lang-link:nth-child(3) {
     font-family: 'inter';
     font-style: normal;
     font-weight: 400px;
