@@ -1,9 +1,0 @@
-@media screen and (max-width:697px) {
-    .footer{
-        flex-direction: column;
-        gap: 32px;
-    }
-    .footer__copyright{
-        margin-left: -60px;
-    }
-}

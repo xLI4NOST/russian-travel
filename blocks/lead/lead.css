@@ -2,3 +2,23 @@
     width: 76.88%;
     margin: 56px auto auto;
 }
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        width: 92%;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .lead {
+        width: 100%;
+        position: relative;
+    }
+}
+
+@media screen and (max-width: 690px) {
+    .lead{
+        width: 100%;
+    }
+}

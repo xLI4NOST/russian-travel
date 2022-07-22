@@ -3,7 +3,7 @@
     min-width: 320px;
     max-width: 1280px;
     font-family: 'inter' Arial, Helvetica, sans-serif;
-    overflow-x: hidden;
+margin: auto;
     
 }
 html, body, div, span, applet, object, iframe,

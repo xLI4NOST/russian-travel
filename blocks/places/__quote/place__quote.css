@@ -1,12 +1,11 @@
 .place__quote{
     width: 100%;
-    margin-top: 26px;
+    margin-top: 48px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
     color: #FFFFFF;
-    margin-bottom: 86px;
     box-sizing: border-box;
 }

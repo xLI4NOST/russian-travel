@@ -3,3 +3,10 @@
     margin-top: 48px;
     max-height: 460px;
 }
+
+@media screen and (max-width:683px) {
+    .place__image {
+        flex-grow: 1;
+        margin-top: 32px;
+    }
+}

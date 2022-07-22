@@ -1,9 +1,10 @@
-.cover__image{
+.cover__image {
     width: 100%;
     box-sizing: border-box;
     position: relative;
     opacity: 70%;
 }
-.cover__image:hover{
+
+.cover__image:hover {
     opacity: 20%;
-    }
+}

@@ -1,4 +1,4 @@
-.lang-link {
+.lang-link_active {
     font-family: 'inter';
     font-style: normal;
     font-weight: 400px;
@@ -6,15 +6,19 @@
     font-size: 24px;
     line-height: 28px;
     width: 30px;
-    height: 28px;
     margin-top: 18px;
     margin-left: calc(100% - 255px);
 }
 
 
-.lang-link:nth-child(3){
+.lang-link{
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 400px;
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 28px;
     width: 29px;
-    height: 28px;
     margin-top: 18px;
     text-decoration: none;
     margin-left: calc(100% - 98.3%);

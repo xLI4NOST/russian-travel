@@ -9,3 +9,11 @@
     color: #FFFFFF;
     white-space: nowrap;
 }
+
+@media screen and (max-width:682px) {
+    .intro__title {
+        font-size: 32px;
+        line-height: 35px;
+        white-space: inherit;
+    }
+}

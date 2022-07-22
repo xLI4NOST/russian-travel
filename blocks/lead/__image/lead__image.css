@@ -1,7 +1,19 @@
 .lead__image {
     width: 100%;
-    height: 615px;
     margin-top: 64px;
     background-repeat: no-repeat;
     box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+    .lead__image {
+        background-repeat: no-repeat;
+    }
+}
+
+
+@media screen and (max-width: 690px) {
+    .lead__image {
+        margin-top: 40px;
+    }
 }
