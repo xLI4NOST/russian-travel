@@ -6,7 +6,7 @@
     .cover__title{
         width: 54.688%;
         top: 30.483%;
-        left: 22.657%
+        left: 22.657%;
     }
     .cover__subtitle{
         left: 31.446%;
@@ -21,7 +21,7 @@
         .cover__title{
             width: 72.917%;
             top:23.81%;
-            left:13.933%
+            left:13.933%;
         }
         .cover__subtitle{
             width: 46.875%;
@@ -30,8 +30,6 @@
         }
     }
     @media screen and (max-width: 579px) {
-        .cover{
-        }
         .cover__title{
             width: 90%;
             max-height: 70px;
