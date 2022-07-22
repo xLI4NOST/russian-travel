@@ -1,4 +1,4 @@
-.lang-link_active {
+.lang-link {
     font-family: 'inter';
     font-style: normal;
     font-weight: 400px;
@@ -8,10 +8,10 @@
     width: 30px;
     margin-top: 18px;
     margin-left: calc(100% - 255px);
+    text-decoration: none;
 }
 
-
-.lang-link{
+.lang-link:nth-child(3) {
     font-family: 'inter';
     font-style: normal;
     font-weight: 400px;
