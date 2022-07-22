@@ -1,6 +1,8 @@
 .cover__subtitle {
     width: 30.41%;
-    margin: 32px 34.8% 245px 35.8%;
+    position: absolute;
+top: 57.739%;
+    left: 34.7979%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;

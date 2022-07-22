@@ -1,0 +1,17 @@
+@media screen and (max-width:1024px){
+    .grid__item{
+        max-height: 225px;
+    }
+}
+
+@media screen and (max-width:768px){
+    .grid__item{
+        max-height: 264px;
+    }
+}
+
+@media screen and (max-width:320px){
+    .grid__item{
+        max-height: 216px
+    }
+}

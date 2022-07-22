@@ -18,7 +18,6 @@ width: 93.75%;
     line-height: 36px;
 }
 .lead__image{
-    background-image: url(./images/leed/768px/__image.png);
 background-repeat: no-repeat;
 }
 }
@@ -37,7 +36,6 @@ line-height: 20px;
 width: 90%;
     }
     .lead__image{
-        background-image: url(./images/320/kalegin-micha.png);
         max-height: 200px;
     }
 }
