@@ -1,5 +1,7 @@
 .cover__title {
+    margin: 0;
     width: 47.2975%;
+    max-height: 152px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
@@ -7,9 +9,6 @@
     line-height: 76px;
     text-align: center;
     color: #FFFFFF;
-    position: absolute;
-    align-self: flex-start;
-    margin-top: 20.693%;
 }
 
 @media screen and (max-width: 1024px) {
@@ -21,7 +20,6 @@
 @media screen and (max-width: 768px) {
     .cover__title {
         width: 72.917%;
-        margin-top: 14.985%;
     }
 
 }
@@ -31,6 +29,5 @@
         width: 90%;
         font-size: 32px;
         line-height: 35px;
-        margin-top: 10.31%;
     }
 }

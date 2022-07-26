@@ -1,24 +1,16 @@
 .header__lang-link {
     font-family: 'inter';
     font-style: normal;
-    font-weight: 400px;
+    font-weight: 400;
     color: #FFFFFF;
     font-size: 24px;
     line-height: 28px;
-    width: 30px;
     margin-top: 18px;
     margin-left: calc(100% - 255px);
     text-decoration: none;
 }
 
 .header__lang-link:nth-child(3) {
-    font-family: 'inter';
-    font-style: normal;
-    font-weight: 400px;
-    color: #FFFFFF;
-    font-size: 24px;
-    line-height: 28px;
-    width: 29px;
     margin-top: 18px;
     text-decoration: none;
     margin-left: calc(100% - 98.3%);
@@ -38,7 +30,6 @@
         font-size: 18px;
         line-height: 20px;
         color: #FFFFFF;
-        width: 29px;
         margin-top: 18px;
         text-decoration: none;
         margin-left: calc(100% - 98.3%);
