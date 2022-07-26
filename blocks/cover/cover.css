@@ -10,22 +10,23 @@
     align-items: center;
     gap: 32px;
     background-image: url(../../images/cover/__overlay.jpg);
-    background-repeat: no-repeat ;
+    background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 1024px) {
-    .cover{
+    .cover {
         height: 640px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .cover{
+    .cover {
         height: 480px;
     }
 }
+
 @media screen and (max-width: 320px) {
-    .cover{
+    .cover {
         max-height: 200px;
         margin-bottom: 0;
         gap: 16px;
