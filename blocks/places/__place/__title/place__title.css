@@ -9,8 +9,19 @@
     margin: 0;
 }
 
-@media screen and (max-width:424px) {
+@media screen and (max-width: 768px){
+    .place__title{
+        width: 47.23%;
+        font-weight: 900;
+        font-size: 42px;
+        line-height: 46px;
+        white-space: pre-wrap;
+    }
+}
+
+@media screen and (max-width: 424px) {
     .place__title {
+        width: 96%;
         font-size: 32px;
         line-height: 35px;
         white-space: nowrap;

@@ -4,9 +4,15 @@
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
+@media screen and (max-width: 1024px) {
+    .lead__image{
+        max-width: 928px;
+    }
+}
 
 @media screen and (max-width: 768px) {
     .lead__image {
+        margin-top: 56px;
         background-repeat: no-repeat;
     }
 }

@@ -2,3 +2,9 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (max-width: 768px) {
+.place__quote{
+    width: 352px;
+}
+}

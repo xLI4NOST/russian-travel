@@ -1,5 +1,6 @@
 .place__text {
     width: 100%;
+    margin-top: 48px;
     font-family: 'inter';
     font-style: normal;
     font-weight: 400;
@@ -7,6 +8,14 @@
     line-height: 163%;
     color: #FFFFFF;
     box-sizing: border-box;
+}
+
+@media screen and (max-width:768px) {
+    .place__text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 163%;
+    }
 }
 
 @media screen and (max-width:683px) {

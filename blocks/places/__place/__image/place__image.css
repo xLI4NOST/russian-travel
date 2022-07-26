@@ -4,9 +4,16 @@
     max-height: 460px;
 }
 
-@media screen and (max-width:683px) {
+@media screen and (max-width: 768px) {
+    .place__image{
+        max-height: 340px;
+    }
+}
+
+@media screen and (max-width: 683px) {
     .place__image {
         flex-grow: 1;
         margin-top: 32px;
+        max-height: 320px;
     }
 }

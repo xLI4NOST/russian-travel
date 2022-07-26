@@ -6,3 +6,15 @@
     overflow: hidden;
     position: relative;
 }
+
+@media screen and (max-width: 1024px) {
+    .header{
+        margin: 28px 4.69% 0 4.69%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header{
+        margin: 28px 3.125% 0 3.125%;
+    }
+}
