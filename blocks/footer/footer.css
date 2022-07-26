@@ -18,5 +18,6 @@
     .footer {
         flex-direction: column;
         gap: 32px;
+        margin: 64px auto 24px 16px;
     }
 }

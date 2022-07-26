@@ -23,3 +23,24 @@
     text-decoration: none;
     margin-left: calc(100% - 98.3%);
 }
+
+@media screen and (max-width: 320px) {
+    .header__lang-link {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 20px;
+        align-self: center;
+    }
+    .header__lang-link:nth-child(3) {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 20px;
+        color: #FFFFFF;
+        width: 29px;
+        margin-top: 18px;
+        text-decoration: none;
+        margin-left: calc(100% - 98.3%);
+    }
+}
