@@ -28,14 +28,14 @@
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/__place/place.css);
 @import url(../blocks/places/__place/_quote/place__quote.css);
-@import url(../blocks/places/__place/__info/place__info.css);
-@import url(../blocks/places/__place/__photo/place__photo.css);
-@import url(../blocks/places/__place/__title/place__title.css);
-@import url(../blocks/places/__place/__image/place__image.css);
-@import url(../blocks/places/__place/__website/place__website.css);
-@import url(../blocks/places/__place/__url-top/place__url-top.css);
-@import url(../blocks/places/__place/__link/place__link.css);
-@import url(../blocks/places/__place/__text/place__text.css);
+@import url(../blocks/places/__info/place__info.css);
+@import url(../blocks/places/__photo/place__photo.css);
+@import url(../blocks/places/__title/place__title.css);
+@import url(../blocks/places/__image/place__image.css);
+@import url(../blocks/places/__website/place__website.css);
+@import url(../blocks/places/__url-top/place__url-top.css);
+@import url(../blocks/places/__link/place__link.css);
+@import url(../blocks/places/__text/place__text.css);
 @import url(../blocks/places/__article/place__article.css);
 /* cover */
 @import url(../blocks/cover/__title/cover__title.css);
