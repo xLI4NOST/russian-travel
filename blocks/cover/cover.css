@@ -4,10 +4,6 @@
     max-width: 1184px;
     height: 750px;
     background-size: cover;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     gap: 32px;
     background-image: url(../../images/cover/__overlay.jpg);
     background-repeat: no-repeat;
@@ -15,13 +11,13 @@
 
 @media screen and (max-width: 1024px) {
     .cover {
-        height: 640px;
+        max-height: 640px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover {
-        height: 480px;
+        max-height: 480px;
     }
 }
 

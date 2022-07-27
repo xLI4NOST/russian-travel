@@ -2,12 +2,25 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
     grid-gap: 16px;
-    width: 92.5%;
+    max-width: 1184px;
     margin: 92px auto 0 auto;
 }
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 1024px) {
     .photo-grid{
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .photo-grid{
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .photo-grid{
+        max-width: 90%;
         margin-top: 64px;
     }
 }
+

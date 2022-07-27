@@ -1,6 +1,6 @@
 .place__url-top {
     text-transform: uppercase;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     margin-bottom: 12px;
     font-style: normal;
     font-weight: 400;
