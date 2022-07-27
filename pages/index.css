@@ -22,7 +22,7 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__quote/intro__quote.css);
 @import url(../blocks/intro/__quote-list/intro__quote-list.css);
-@import url(../blocks/intro/__quote-list/__number/quote-list__number.css);
+@import url(../blocks/intro/__quote-list/number/intro__quote-list-number.css);
 /* grid */
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
