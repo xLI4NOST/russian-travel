@@ -1,0 +1,11 @@
+.place__info {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 764px) {
+    .place__info{
+        flex-direction: column;
+    }
+}

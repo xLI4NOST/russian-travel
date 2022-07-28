@@ -22,5 +22,6 @@ margin: 88px auto 0 auto;
         margin: 64px 16px 0 16px;
         display:flex;
         flex-direction: column;
+        margin-bottom: 64px;
     }
 }

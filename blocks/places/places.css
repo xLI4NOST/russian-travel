@@ -16,6 +16,14 @@
 @media screen and (max-width: 768px) {
     .places {
         gap: 73px;
-        margin: 64px 3.125% 0 3.125%;
+        margin: 88px 3.125% 0 3.125%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places{
+        gap: 50px;
+        width: 100%;
+        margin: 64px 0 0 0;
     }
 }

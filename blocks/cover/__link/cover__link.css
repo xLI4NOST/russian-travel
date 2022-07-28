@@ -28,13 +28,13 @@
 
 @media screen and (max-width: 1024px) {
     .cover__link{
-        min-height: 640px;
+        max-height: 640px;
     }
 }
 
 @media screen and (max-width: 1000px) {
     .cover__link{
-        min-height: 480px;
+        max-height: 480px;
     }
 }
 

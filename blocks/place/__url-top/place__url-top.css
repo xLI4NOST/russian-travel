@@ -1,4 +1,5 @@
 .place__url-top {
+    margin: 0;
     text-transform: uppercase;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     margin-bottom: 12px;

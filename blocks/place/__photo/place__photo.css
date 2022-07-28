@@ -7,11 +7,6 @@
     .place__photo{
         flex-wrap: wrap;
         gap: 28px;
-    }
-}
-
-@media screen and (max-width:697px) {
-    .place__photo{
-        flex-wrap: wrap;
+        justify-content: center;
     }
 }
