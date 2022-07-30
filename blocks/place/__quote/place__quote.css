@@ -7,6 +7,5 @@
 @media screen and (max-width: 768px) {
 .place__quote{
     max-width: 352px;
-    gap: 25px;
 }
 }

@@ -14,16 +14,12 @@
         width: 45.9%;
         font-size: 42px;
         line-height: 46px;
-    }
-}
-
-@media screen and (max-width: 764px) {
-    .place__title{
         align-self: center;
     }
 }
 
-@media screen and (max-width: 424px) {
+
+@media screen and (max-width: 320px) {
     .place__title {
         margin-left: 16px;
         width: 90%;
