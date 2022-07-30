@@ -10,3 +10,9 @@
         justify-content: center;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .place__photo{
+        gap: 32px
+    }
+}

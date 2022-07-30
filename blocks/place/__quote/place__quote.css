@@ -9,3 +9,9 @@
     max-width: 352px;
 }
 }
+
+@media screen and (max-width: 320px) {
+    .place__quote{
+        margin: 0;
+    }
+}

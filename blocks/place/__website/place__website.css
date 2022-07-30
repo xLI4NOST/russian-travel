@@ -7,11 +7,13 @@
 @media screen and (max-width: 764px) {
     .place__website{
         align-self: center;
+        width: 45%;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 417px) {
     .place__website{
+        width: 80%;
         align-self: flex-start;
         margin-left: 16px;
     }

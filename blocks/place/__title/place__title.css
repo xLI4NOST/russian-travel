@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 768px) {
     .place__title {
-        width: 45.9%;
+        width: 45%;
         font-size: 42px;
         line-height: 46px;
         align-self: center;
@@ -19,8 +19,9 @@
 }
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 417px) {
     .place__title {
+        align-self: flex-start;
         margin-left: 16px;
         width: 90%;
         font-size: 32px;

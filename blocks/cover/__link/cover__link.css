@@ -19,6 +19,7 @@
     align-self: start;
     background: #2a2c2f;
     opacity: 0.3;
+    min-height: 740px;
 }
 
 .cover__link:hover::before  {
@@ -28,13 +29,13 @@
 
 @media screen and (max-width: 1024px) {
     .cover__link{
-        max-height: 640px;
+        min-height: 640px;
     }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 768px) {
     .cover__link{
-        max-height: 480px;
+        min-height: 480px;
     }
 }
 
