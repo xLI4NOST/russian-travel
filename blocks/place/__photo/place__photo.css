@@ -10,20 +10,20 @@
 }
 
 @media screen and (max-width: 1023px) {
-    .place__photo{
+    .place__photo {
         gap: 28px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .place__photo{
+    .place__photo {
         gap: 28px;
         flex-direction: column;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .place__photo{
-        gap: 32px
+    .place__photo {
+        gap: 32px;
     }
 }
