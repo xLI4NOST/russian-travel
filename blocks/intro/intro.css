@@ -5,22 +5,24 @@
 
 
 @media screen and (max-width: 1024px) {
-    .intro{
+    .intro {
         width: 67.4%;
         margin: 92px 0 0 48px;
     }
 }
-@media screen and (max-width: 768px){
-    .intro{
-width: 95%;
-margin: 88px auto 0 auto;
+
+@media screen and (max-width: 768px) {
+    .intro {
+        width: 95%;
+        margin: 88px auto 0 auto;
     }
-    
+
 }
+
 @media screen and (max-width: 682px) {
-    .intro{
+    .intro {
         margin: 64px 16px 0 16px;
-        display:flex;
+        display: flex;
         flex-direction: column;
         margin-bottom: 64px;
     }

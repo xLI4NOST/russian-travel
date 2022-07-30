@@ -1,28 +1,3 @@
 .place__image {
-    width: 47%;
-    margin-top: 48px;
-    max-height: 460px;
+    width: 100%;
 }
-
-@media screen and (max-width: 768px) {
-    .place__image{
-        max-height: 340px;
-        flex-grow: 1;
-        object-fit: contain;
-    }
-}
-
-@media screen and (max-width: 683px) {
-    .place__image {
-        width: 45%; 
-        margin-top: 32px;
-        max-height: 320px;
-    }
-}
-
-@media screen and (max-width: 417px ) {
-    .place__image{
-        flex-grow: 1;
-    }
-}
-

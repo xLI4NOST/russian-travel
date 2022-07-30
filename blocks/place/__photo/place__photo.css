@@ -3,11 +3,22 @@
     gap: 40px;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width: 1279px) {
+    .place__photo {
+        gap: 32px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
     .place__photo{
-        flex-wrap: wrap;
         gap: 28px;
-        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place__photo{
+        gap: 28px;
+        flex-direction: column;
     }
 }
 
