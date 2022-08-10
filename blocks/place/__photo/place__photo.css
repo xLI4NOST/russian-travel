@@ -17,7 +17,6 @@
 
 @media screen and (max-width: 767px) {
     .place__photo {
-        gap: 28px;
         flex-direction: column;
     }
 }

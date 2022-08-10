@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 768px) {
     .place__container {
-        gap: 32px;
+        gap: 25px;
     }
 
     .place__container:nth-child(2) {

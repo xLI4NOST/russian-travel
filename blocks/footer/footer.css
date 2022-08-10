@@ -1,6 +1,6 @@
 .footer {
     position: relative;
-    width: 92%;
+    max-width: 1184px;
     margin: 0 auto 24px auto;
     display: flex;
     justify-content: space-between;
