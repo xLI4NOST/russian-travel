@@ -19,7 +19,6 @@
     align-self: start;
     background: #2a2c2f;
     opacity: 0.3;
-    height: 100%;
 }
 
 .cover__link:hover::before  {
