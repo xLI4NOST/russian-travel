@@ -1,7 +1,7 @@
 .footer {
     position: relative;
     max-width: 1184px;
-    margin: 0 auto 24px auto;
+    padding: 0 48px;
     display: flex;
     justify-content: space-between;
     gap: 19px;
@@ -10,11 +10,12 @@
 @media screen and (max-width: 768px) {
     .footer{
         gap: 18px;
-        margin: 0 24px 24px 24px;
+        margin: 0 0 24px;
+        padding: 0 24px;
     }
 }
 
-@media screen and (max-width:697px) {
+@media screen and (max-width:699px) {
     .footer {
         flex-direction: column;
         margin: 64px auto 24px 16px;

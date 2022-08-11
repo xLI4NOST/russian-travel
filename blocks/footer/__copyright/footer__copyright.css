@@ -11,10 +11,11 @@
     text-decoration: none;
     align-self: center;
 }
-@media screen and (max-width: 697px) {
+@media screen and (max-width: 699px) {
     .footer__copyright{
         margin-top: 48px;
         text-align: start;
+        align-self: flex-start;
     }
 }
 
