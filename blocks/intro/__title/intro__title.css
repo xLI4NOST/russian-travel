@@ -6,12 +6,6 @@
     font-size: 54px;
     line-height: 58px;
     color: #FFFFFF;
-    white-space: nowrap;
-}
-@media screen and (max-width: 767px) {
-    .intro__title{
-        white-space:inherit;
-    }
 }
 
 @media screen and (max-width: 447px) {

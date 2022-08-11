@@ -1,9 +1,9 @@
 /* normalize */
 @import url(../vendor/normalize.css);
 /* fonts */
-@import url(../fonts/Inter_Web/inter.css);
+@import url(../vendor/fonts.css);
 /* link */
-@import url(../blocks/link/link.css);
+@import url(../blocks/link_opacity/link_opacity.css);
 /* Pages */
 @import url(../blocks/page/page.css);
 /* header */
