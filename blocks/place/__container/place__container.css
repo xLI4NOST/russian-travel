@@ -2,15 +2,10 @@
     display: flex;
     flex-direction: column;
     gap: 27px;
-    display: block;
 }   
 
 @media screen and (max-width: 768px) {
     .place__container {
         gap: 25px;
-    }
-
-    .place__container:nth-child(2) {
-        margin: 0 16px 0 16px;
     }
 }

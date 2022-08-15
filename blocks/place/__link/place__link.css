@@ -6,4 +6,11 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
+    max-width: 456px;
+}
+
+@media screen and  (max-width: 768px) {
+    .place__link{
+        max-width: 352px;
+    }
 }

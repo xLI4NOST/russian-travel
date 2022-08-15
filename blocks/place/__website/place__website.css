@@ -1,14 +1,11 @@
 .place__website {
-    width: 50%;
     align-self: end;
     display: flex;
     flex-direction: column;
 }
 
-@media screen and (max-width: 764px) {
+@media screen and (max-width: 768px) {
     .place__website{
-        align-self: flex-start;
-        width: 45%;
     }
 }
 
