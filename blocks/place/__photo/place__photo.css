@@ -1,23 +1,24 @@
 .place__photo {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 40px;
 }
 
 @media screen and (max-width: 1279px) {
     .place__photo {
-        gap: 32px;
+        grid-gap: 32 px;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .place__photo {
-        gap: 28px;
+       grid-gap: 28px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .place__photo {
-        flex-direction: column;
+        grid-template-columns: 1fr;
     }
 }
 
