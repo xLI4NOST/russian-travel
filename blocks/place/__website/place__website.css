@@ -4,11 +4,6 @@
     flex-direction: column;
 }
 
-@media screen and (max-width: 768px) {
-    .place__website{
-    }
-}
-
 @media screen and (max-width: 417px) {
     .place__website{
         width: 80%;
